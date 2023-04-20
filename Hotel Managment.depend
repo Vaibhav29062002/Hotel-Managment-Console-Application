@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1681926532 source:c:\users\hp\onedrive\desktop\placement\hotel managment\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+	<windows.h>
+
